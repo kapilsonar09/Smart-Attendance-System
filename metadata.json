@@ -1,0 +1,6 @@
+{
+  "name": "Smart Online Attendance Management System",
+  "description": "Comprehensive academic attendance intelligence platform featuring role-based dashboards, rule-based risk prediction, QR session attendance, smart recovery calculators, anomaly detection, and student assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
